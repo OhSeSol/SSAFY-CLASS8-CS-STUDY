@@ -7,12 +7,12 @@
 
 :wrench:<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Webex-00897B?style=flat-square&logo=Google Meet&logoColor=white"/>
-<a href="https://github.com/OhSeSol/SSAFY-CLASS8-CS-STUDY/edit/main/README.md"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>  
+<a href="https://github.com/OhSeSol/SSAFY-CLASS8-CS-STUDY"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>  
 
 
 ☝매주 정해진 범위를 각자 공부하여 문서정리 -> 모여서 문서 취합하여 업로드  
 ✌공부하며 어렵거나 의문이 생긴 내용 공유 및 논의  
-👌대표 문제 하나씩 풀어보기(SWEA:D2\~D3 백준:브론즈~실버)
+👌대표 문제 하나씩 풀어보기(SWEA:D2\~D3 / 백준:브론즈~실버)
       
 
 ## :calendar:8월 : Data Structure
