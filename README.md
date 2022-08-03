@@ -20,7 +20,7 @@
 
 | 주차 | 범위  | 진행  |
 |:---:|:---:|:---:|
-| :one: | Array / Array List / Linked List  | :heavy_check_mark:  |
+| :one: | <a href="https://scrawny-jet-ba1.notion.site/Array-ArrayList-LinkedList-441ae4559dbc4c5185505a2d0a81384b"> Array / Array List / Linked List </a> | :heavy_check_mark:  |
 | :two: | Stack / Queue / Deque  |   |
 | :three: | Binary Tree / Binary Search Tree / Trie  |   |
 | :four: | Heap / Hash  |   |
