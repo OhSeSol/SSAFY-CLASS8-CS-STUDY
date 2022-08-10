@@ -21,7 +21,7 @@
 | 주차 | 범위  | 진행 | 준비왕 | 
 |:---:|:---:|:---:|:---:|
 | :one: | <a href="https://scrawny-jet-ba1.notion.site/Array-ArrayList-LinkedList-441ae4559dbc4c5185505a2d0a81384b"> Array / Array List / Linked List </a> | :heavy_check_mark:  | 선준용(3pts) , 오세솔(1pts) |
-| :two: | Stack / Queue / Deque  |   |    |
+| :two: | Stack / Queue / Deque  | :heavy_check_mark:  | 이신광(3pts) , 선준용(1pts), 김인중(1pts)   |
 | :three: | Binary Tree / Binary Search Tree / Trie  |   |  |
 | :four: | Heap / Hash  |   | |
 | :five: | Graph  |   | |
