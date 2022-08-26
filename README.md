@@ -13,7 +13,8 @@
 ☝매주 정해진 범위를 각자 공부하여 문서정리 -> 모여서 문서 취합하여 업로드  
 ✌공부하며 어렵거나 의문이 생긴 내용 공유 및 논의  
 👌대표 문제 하나씩 풀어보기(SWEA:D2\~D3 / 백준:브론즈~실버)
-      
+
+<a href="https://www.notion.so/f8362b9aecbc450685bc48bf942db31a?v=57ea5c2a195b426693cd787fd4e9c2af">알고리즘 풀이 업로드</a>
 
 ## :calendar:8월 : Data Structure
 ### :book:교재: Google
