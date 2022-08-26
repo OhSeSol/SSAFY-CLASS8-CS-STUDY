@@ -24,7 +24,7 @@
 | :one: | <a href="https://scrawny-jet-ba1.notion.site/Array-ArrayList-LinkedList-441ae4559dbc4c5185505a2d0a81384b"> Array / Array List / Linked List </a> | :heavy_check_mark:  | 선준용(3pts) , 오세솔(1pts) |
 | :two: |<a href="https://denim-angora-86f.notion.site/Stack-vs-Queue-vs-Deque-ad0d7400bf5c42de8e84a6493ce9376b"> Stack / Queue / Deque </a>  | :heavy_check_mark:  | 이신광(3pts) , 선준용(1pts), 김인중(1pts)   |
 | :three: |<a href="https://capable-yamamomo-8a2.notion.site/Binary-Tree-Binary-Search-Tree-Trie-0fb6c4f8a5da4480a543da886593ba1e"> Binary Tree / Binary Search Tree / Trie </a> | :heavy_check_mark: | 김인중(3pts) , 오세솔(3pts), 김태균(1pts), 이신광(1pts) |
-| :four: | <a href="https://www.notion.so/Heap-Hash-56c079631e8f48a58374eea9d8c0558c"> Heap / Hash </a>  | :heavy_check_mark:  | 선준용(3pts) , 오세솔(3pts), (1pts), 이신광(1pts) |
+| :four: | <a href="https://www.notion.so/Heap-Hash-56c079631e8f48a58374eea9d8c0558c"> Heap / Hash </a>  | :heavy_check_mark:  | 선준용(3pts) , 오세솔(3pts), 김인중(1pts), 이신광(1pts) |
 | :five: | Graph  |   | |
 
 
