@@ -33,7 +33,7 @@
 ### :book:교재: 모두의 네트워크
 | 주차 | 범위  | 진행 | 준비왕 | 
 |:---:|:---:|:---:|:---:|
-| :one: | <a href="https://exultant-timer-c4c.notion.site/1-c277e22db0f74c6a96ac203909bce879"> 모두의 네트워크 1,2장 </a> | :heavy_check_mark:  | 선준용(3pts) , 오세솔(1pts) |
+| :one: | <a href="https://exultant-timer-c4c.notion.site/1-c277e22db0f74c6a96ac203909bce879"> 모두의 네트워크 1,2장 </a> | :heavy_check_mark:  | 오세솔(3pts), 김인중(1pts), 김태균(1pts), 선준용(1pts) |
 | :two: | 모두의 네트워크 3,4장   |  | |   
 | :three: | 모두의 네트워크 5,6,7장|  |  |
 | :four: | 모두의 네트워크 8,9장 |  |  |
