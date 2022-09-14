@@ -34,7 +34,7 @@
 | 주차 | 범위  | 진행 | 준비왕 | 
 |:---:|:---:|:---:|:---:|
 | :one: | <a href="https://exultant-timer-c4c.notion.site/1-c277e22db0f74c6a96ac203909bce879"> 모두의 네트워크 1,2장 </a> | :heavy_check_mark:  | 오세솔(3pts), 김인중(1pts), 김태균(1pts), 선준용(1pts) |
-| :two: | 모두의 네트워크 3,4장   |  | |   
+| :two: | <a href="https://capable-yamamomo-8a2.notion.site/2-2bc15c3d90054380b8b2f64e2617df83"> 모두의 네트워크 3,4장 </a>   | :heavy_check_mark:  | 김인중(3pt), 선준용(1pt), 오세솔(1pt) |   
 | :three: | 모두의 네트워크 5,6,7장|  |  |
 | :four: | 모두의 네트워크 8,9장 |  |  |
 
