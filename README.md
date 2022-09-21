@@ -35,8 +35,8 @@
 |:---:|:---:|:---:|:---:|
 | :one: | <a href="https://exultant-timer-c4c.notion.site/1-c277e22db0f74c6a96ac203909bce879"> 모두의 네트워크 1,2장 </a> | :heavy_check_mark:  | 오세솔(3pts), 김인중(1pts), 김태균(1pts), 선준용(1pts) |
 | :two: | <a href="https://capable-yamamomo-8a2.notion.site/2-2bc15c3d90054380b8b2f64e2617df83"> 모두의 네트워크 3,4장 </a>   | :heavy_check_mark:  | 김인중(3pt), 선준용(1pt), 오세솔(1pt) |   
-| :three: | 모두의 네트워크 5,6,7장|  |  |
-| :four: | 모두의 네트워크 8,9장 |  |  |
+| :three: | <a href="https://quirky-feather-0d9.notion.site/02-738a8dc512cf45e6b0d8552f9234ea8c"> 모두의 네트워크 5장</a>, <a href="https://quirky-feather-0d9.notion.site/03-541a857240b04925b60aba32272475d7">6장</a>| :heavy_check_mark: | 김태균(3pts), 김인중(1pts)|
+| :four: | 모두의 네트워크 7, 8, 9장 |  |  |
 
 ## :calendar:10월 : Database
 ### :book:교재: 미정
