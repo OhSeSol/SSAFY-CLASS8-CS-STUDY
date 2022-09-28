@@ -26,7 +26,7 @@
 | :two: |<a href="https://denim-angora-86f.notion.site/Stack-vs-Queue-vs-Deque-ad0d7400bf5c42de8e84a6493ce9376b"> Stack / Queue / Deque </a>  | :heavy_check_mark:  | 이신광(3pts) , 선준용(1pts), 김인중(1pts)   |
 | :three: |<a href="https://capable-yamamomo-8a2.notion.site/Binary-Tree-Binary-Search-Tree-Trie-0fb6c4f8a5da4480a543da886593ba1e"> Binary Tree / Binary Search Tree / Trie </a> | :heavy_check_mark: | 김인중(3pts) , 오세솔(3pts), 김태균(1pts), 이신광(1pts) |
 | :four: | <a href="https://www.notion.so/Heap-Hash-56c079631e8f48a58374eea9d8c0558c"> Heap / Hash </a>  | :heavy_check_mark:  | 선준용(3pts) , 오세솔(3pts), 김인중(1pts), 이신광(1pts) |
-| :five: | <a href="https://capable-yamamomo-8a2.notion.site/5-Graph-fbf260e8699c466aa9e0642f1f919e78"> Graph </a>  | :heavy_check_mark: | 김인중(3pt), 김태균(1pt), 오세솔(1pt) |
+| :five: | <a href="https://capable-yamamomo-8a2.notion.site/5-Graph-fbf260e8699c466aa9e0642f1f919e78"> Graph </a>  | :heavy_check_mark: | 김인중(3pts), 김태균(1pts), 오세솔(1pts) |
 
 
 ## :calendar:9월 : Network/Web
@@ -34,15 +34,15 @@
 | 주차 | 범위  | 진행 | 준비왕 | 
 |:---:|:---:|:---:|:---:|
 | :one: | <a href="https://exultant-timer-c4c.notion.site/1-c277e22db0f74c6a96ac203909bce879"> 모두의 네트워크 1,2장 </a> | :heavy_check_mark:  | 오세솔(3pts), 김인중(1pts), 김태균(1pts), 선준용(1pts) |
-| :two: | <a href="https://capable-yamamomo-8a2.notion.site/2-2bc15c3d90054380b8b2f64e2617df83"> 모두의 네트워크 3,4장 </a>   | :heavy_check_mark:  | 김인중(3pt), 선준용(1pt), 오세솔(1pt) |   
-| :three: | <a href="https://quirky-feather-0d9.notion.site/02-738a8dc512cf45e6b0d8552f9234ea8c"> 모두의 네트워크 5장</a>, <a href="https://quirky-feather-0d9.notion.site/03-541a857240b04925b60aba32272475d7">6장</a> | :heavy_check_mark:  | 김태균(3pt), 김인중(1pt) |
-| :four: | 모두의 네트워크 7,8,9장 |  |  |
+| :two: | <a href="https://capable-yamamomo-8a2.notion.site/2-2bc15c3d90054380b8b2f64e2617df83"> 모두의 네트워크 3,4장 </a>   | :heavy_check_mark:  | 김인중(3pts), 선준용(1pts), 오세솔(1pts) |   
+| :three: | <a href="https://quirky-feather-0d9.notion.site/02-738a8dc512cf45e6b0d8552f9234ea8c"> 모두의 네트워크 5장</a>, <a href="https://quirky-feather-0d9.notion.site/03-541a857240b04925b60aba32272475d7">6장</a> | :heavy_check_mark:  | 김태균(3pts), 김인중(1pts) |
+| :four: | <a href="https://www.notion.so/9-4-1a5009ff4ddb4d748a9e80514192090d"> 모두의 네트워크 7,8,9장</a> | :heavy_check_mark:  |선준용(3pts), 김태균(1pts) |
 
-## :calendar:10월 : Database
-### :book:교재: 미정
+## :calendar:10월 : Computer Structure
+### :book:교재: 혼자 공부하는 컴퓨터구조+운영체제
 
-## :calendar:11월 : Computer Structure
-### :book:교재: 미정
+## :calendar:11월 : Computer Structure+Operating System
+### :book:교재: 혼자 공부하는 컴퓨터구조+운영체제
 
 ## :calendar:12월 : Operating System
-### :book:교재: 미정
+### :book:교재: 혼자 공부하는 컴퓨터구조+운영체제
