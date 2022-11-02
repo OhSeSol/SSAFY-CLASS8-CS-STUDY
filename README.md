@@ -52,6 +52,7 @@
 
 ## :calendar:11월 : Computer Structure+Operating System
 ### :book:교재: 혼자 공부하는 컴퓨터구조+운영체제
+### :ok_man:**김인중** **김태균** **선준용** **오세솔** **이신광** **이해건** 
 | 주차 | 범위  | 진행 | 준비왕 | 
 |:---:|:---:|:---:|:---:|
 | :one: | Ch07.보조기억장치  | :heavy_check_mark:  |  |
