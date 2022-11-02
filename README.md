@@ -52,6 +52,12 @@
 
 ## :calendar:11월 : Computer Structure+Operating System
 ### :book:교재: 혼자 공부하는 컴퓨터구조+운영체제
-
+| 주차 | 범위  | 진행 | 준비왕 | 
+|:---:|:---:|:---:|:---:|
+| :one: | Ch07.보조기억장치  | :heavy_check_mark:  |  |
+| :two: |  |   |  |
+| :three: | |  |  |
+| :four: |  |  |  |
+| :five: | |  | |
 ## :calendar:12월 : Operating System
 ### :book:교재: 혼자 공부하는 컴퓨터구조+운영체제
