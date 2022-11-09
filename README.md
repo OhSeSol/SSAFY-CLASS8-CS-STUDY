@@ -56,7 +56,7 @@
 | 주차 | 범위  | 진행 | 준비왕 | 
 |:---:|:---:|:---:|:---:|
 | :one: | <a href="https://capable-yamamomo-8a2.notion.site/5-d797cc7de4da4b6ba7dea92f50f52052">Ch07.보조기억장치</a>  | :heavy_check_mark:  | 김인중 |
-| :two: |  |   |  |
+| :two: | <a href="https://capable-yamamomo-8a2.notion.site/6-11c5392578964279b4f7d77c7af397ac">Ch08.입출력장치</a> | :heavy_check_mark: | 김인중 |
 | :three: | |  |  |
 | :four: |  |  |  |
 | :five: | |  | |
