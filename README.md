@@ -24,9 +24,9 @@
 |:---:|:---:|:---:|:---:|
 | :one: | <a href="https://scrawny-jet-ba1.notion.site/Array-ArrayList-LinkedList-441ae4559dbc4c5185505a2d0a81384b"> Array / Array List / Linked List </a> | :heavy_check_mark:  | 선준용(3pts) , 오세솔(1pts) |
 | :two: |<a href="https://denim-angora-86f.notion.site/Stack-vs-Queue-vs-Deque-ad0d7400bf5c42de8e84a6493ce9376b"> Stack / Queue / Deque </a>  | :heavy_check_mark:  | 이신광(3pts) , 선준용(1pts), 김인중(1pts)   |
-| :three: |<a href="https://capable-yamamomo-8a2.notion.site/Binary-Tree-Binary-Search-Tree-Trie-0fb6c4f8a5da4480a543da886593ba1e"> Binary Tree / Binary Search Tree / Trie </a> | :heavy_check_mark: | 김인중(3pts) , 오세솔(3pts), 김태균(1pts), 이신광(1pts) |
+| :three: |<a href="https://capable-yamamomo-8a2.notion.site/Binary-Tree-Binary-Search-Tree-Trie-dcc97396dcbc4cd1bae723ff35553ee2"> Binary Tree / Binary Search Tree / Trie </a> | :heavy_check_mark: | 김인중(3pts) , 오세솔(3pts), 김태균(1pts), 이신광(1pts) |
 | :four: | <a href="https://www.notion.so/Heap-Hash-56c079631e8f48a58374eea9d8c0558c"> Heap / Hash </a>  | :heavy_check_mark:  | 선준용(3pts) , 오세솔(3pts), 김인중(1pts), 이신광(1pts) |
-| :five: | <a href="https://capable-yamamomo-8a2.notion.site/5-Graph-fbf260e8699c466aa9e0642f1f919e78"> Graph </a>  | :heavy_check_mark: | 김인중(3pts), 김태균(1pts), 오세솔(1pts) |
+| :five: | <a href="https://capable-yamamomo-8a2.notion.site/Graph-e19bbfa2842749778d896afdedd0eebd"> Graph </a>  | :heavy_check_mark: | 김인중(3pts), 김태균(1pts), 오세솔(1pts) |
 
 
 ## :calendar:9월 : Network/Web
@@ -36,7 +36,7 @@
 | 주차 | 범위  | 진행 | 준비왕 | 
 |:---:|:---:|:---:|:---:|
 | :one: | <a href="https://exultant-timer-c4c.notion.site/1-c277e22db0f74c6a96ac203909bce879"> 모두의 네트워크 1,2장 </a> | :heavy_check_mark:  | 오세솔(3pts), 김인중(1pts), 김태균(1pts), 선준용(1pts) |
-| :two: | <a href="https://capable-yamamomo-8a2.notion.site/2-2bc15c3d90054380b8b2f64e2617df83"> 모두의 네트워크 3,4장 </a>   | :heavy_check_mark:  | 김인중(3pts), 선준용(1pts), 오세솔(1pts) |   
+| :two: | <a href="https://capable-yamamomo-8a2.notion.site/2bc15c3d90054380b8b2f64e2617df83"> 모두의 네트워크 3,4장 </a>   | :heavy_check_mark:  | 김인중(3pts), 선준용(1pts), 오세솔(1pts) |   
 | :three: | <a href="https://quirky-feather-0d9.notion.site/02-738a8dc512cf45e6b0d8552f9234ea8c"> 모두의 네트워크 5장</a>, <a href="https://quirky-feather-0d9.notion.site/03-541a857240b04925b60aba32272475d7">6장</a> | :heavy_check_mark:  | 김태균(3pts), 김인중(1pts) |
 | :four: | <a href="https://www.notion.so/9-4-1a5009ff4ddb4d748a9e80514192090d"> 모두의 네트워크 7,8,9장</a> | :heavy_check_mark:  |선준용(3pts), 김태균(1pts) |
 
@@ -46,7 +46,7 @@
 | 주차 | 범위  | 진행 | 준비왕 | 
 |:---:|:---:|:---:|:---:|
 | :one: |<a href="https://scrawny-jet-ba1.notion.site/10-1-cdaeaef1d1634cc38537dc2d73f97e0d">Ch01.컴퓨터 구조 시작하기 Ch02.데이터 Ch03.명령어</a>  | :heavy_check_mark:  | 선준용, 이신광 |
-| :two: |  <a href="https://capable-yamamomo-8a2.notion.site/2-1b18cea325b545bea42b4f1bf1b2a4b1">Ch04.CPU의 작동 원리</a> | :heavy_check_mark: | 김인중 |
+| :two: |  <a href="https://capable-yamamomo-8a2.notion.site/CPU-1b18cea325b545bea42b4f1bf1b2a4b1">Ch04.CPU의 작동 원리</a> | :heavy_check_mark: | 김인중 |
 | :three: | <a href="https://exultant-timer-c4c.notion.site/CPU-e7a8235429524380b4cfea71db80dd8b">Ch05.CPU 성능 향상 기법</a> | :heavy_check_mark:  | 오세솔 |
 | :four: | <a href="https://www.notion.so/10-4-01f5b141eabd46298f21c3e21e001b52">Ch06.메모리와 캐시 메모리</a> | :heavy_check_mark:  | 선준용 |
 
@@ -55,8 +55,8 @@
 ### :ok_man:**김인중** **김태균** **선준용** **오세솔** **이신광** **이해건** 
 | 주차 | 범위  | 진행 | 준비왕 | 
 |:---:|:---:|:---:|:---:|
-| :one: | <a href="https://capable-yamamomo-8a2.notion.site/5-d797cc7de4da4b6ba7dea92f50f52052">Ch07.보조기억장치</a>  | :heavy_check_mark:  | 김인중 |
-| :two: | <a href="https://capable-yamamomo-8a2.notion.site/6-11c5392578964279b4f7d77c7af397ac">Ch08.입출력장치</a> | :heavy_check_mark: | 김인중 |
+| :one: | <a href="https://capable-yamamomo-8a2.notion.site/d797cc7de4da4b6ba7dea92f50f52052">Ch07.보조기억장치</a>  | :heavy_check_mark:  | 김인중 |
+| :two: | <a href="https://capable-yamamomo-8a2.notion.site/11c5392578964279b4f7d77c7af397ac">Ch08.입출력장치</a> | :heavy_check_mark: | 김인중 |
 | :three: | |  |  |
 | :four: |  |  |  |
 | :five: | |  | |
