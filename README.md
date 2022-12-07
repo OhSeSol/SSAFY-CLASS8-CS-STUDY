@@ -59,7 +59,7 @@
 | :two: | <a href="https://capable-yamamomo-8a2.notion.site/11c5392578964279b4f7d77c7af397ac">Ch08.입출력장치</a> | :heavy_check_mark: | 김인중 |
 |---|운영체제|---|---|
 | :three: | <a href="https://capable-yamamomo-8a2.notion.site/afebbd454fc14211a71e9da4449fdc70">Ch09.운영체제 시작하기 Ch10.프로세스와 스레드</a> | :heavy_check_mark: | 김인중 |
-| :four: |  |  |  |
-| :five: | |  | |
+| :four: | <a href="https://scrawny-jet-ba1.notion.site/CPU-0456db7498b146cd933e2d3b12f6aad5">Ch11.CPU 스케줄링| :heavy_check_mark: | 선준용 |
+| :five: | <a href="https://scrawny-jet-ba1.notion.site/12-8dfa706136304bdd8032145bdfe6e202">Ch12.프로세스 동기화 | :heavy_check_mark: | 선준용 |
 ## :calendar:12월 : Operating System
 ### :book:교재: 혼자 공부하는 컴퓨터구조+운영체제
