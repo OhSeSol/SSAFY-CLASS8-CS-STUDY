@@ -57,7 +57,8 @@
 |:---:|:---:|:---:|:---:|
 | :one: | <a href="https://capable-yamamomo-8a2.notion.site/d797cc7de4da4b6ba7dea92f50f52052">Ch07.보조기억장치</a>  | :heavy_check_mark:  | 김인중 |
 | :two: | <a href="https://capable-yamamomo-8a2.notion.site/11c5392578964279b4f7d77c7af397ac">Ch08.입출력장치</a> | :heavy_check_mark: | 김인중 |
-| :three: | |  |  |
+|---|운영체제|---|---|
+| :three: | <a href="https://capable-yamamomo-8a2.notion.site/afebbd454fc14211a71e9da4449fdc70">Ch09.운영체제 시작하기 Ch10.프로세스와 스레드</a> | :heavy_check_mark: | 김인중 |
 | :four: |  |  |  |
 | :five: | |  | |
 ## :calendar:12월 : Operating System
