@@ -63,3 +63,12 @@
 | :five: | <a href="https://scrawny-jet-ba1.notion.site/12-8dfa706136304bdd8032145bdfe6e202">Ch12.프로세스 동기화 | :heavy_check_mark: | 선준용 |
 ## :calendar:12월 : Operating System
 ### :book:교재: 혼자 공부하는 컴퓨터구조+운영체제
+
+### :ok_man:**김인중** **김태균** **선준용** **오세솔** **이신광** **이해건** 
+| 주차 | 범위  | 진행 | 준비왕 | 
+|:---:|:---:|:---:|:---:|
+| :one: | <a href="https://scrawny-jet-ba1.notion.site/12-8dfa706136304bdd8032145bdfe6e202">Ch12.프로세스 동기화 | :heavy_check_mark: | 선준용 |
+| :two: |  |  |  |
+| :three: |  |  |  |
+| :four: | |  |  |
+| :five: |  |  |  |
