@@ -66,7 +66,7 @@
 | 주차 | 범위  | 진행 | 준비왕 | 
 |:---:|:---:|:---:|:---:|
 | :one: | <a href="https://scrawny-jet-ba1.notion.site/12-8dfa706136304bdd8032145bdfe6e202">Ch12.프로세스 동기화 | :heavy_check_mark: | 선준용 |
-| :two: |  |  |  |
-| :three: |  |  |  |
+| :two: |<a href="https://denim-angora-86f.notion.site/13-0892a6e4302947beac5c310b28809c46">Ch13.교착상태  | :heavy_check_mark: | 이신광 |
+| :three: |<a href="https://exultant-timer-c4c.notion.site/3bd3d0e67cc349ecaec668c0e6be0194">Ch14.가상 메모리  | :heavy_check_mark: | 오세솔 |
 | :four: | |  |  |
 | :five: |  |  |  |
