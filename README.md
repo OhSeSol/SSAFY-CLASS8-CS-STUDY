@@ -48,7 +48,7 @@
 | :one: |<a href="https://scrawny-jet-ba1.notion.site/10-1-cdaeaef1d1634cc38537dc2d73f97e0d">Ch01.컴퓨터 구조 시작하기 Ch02.데이터 Ch03.명령어</a>  | :heavy_check_mark:  | 선준용, 이신광 |
 | :two: |  <a href="https://capable-yamamomo-8a2.notion.site/CPU-1b18cea325b545bea42b4f1bf1b2a4b1">Ch04.CPU의 작동 원리</a> | :heavy_check_mark: | 김인중 |
 | :three: | <a href="https://exultant-timer-c4c.notion.site/CPU-e7a8235429524380b4cfea71db80dd8b">Ch05.CPU 성능 향상 기법</a> | :heavy_check_mark:  | 오세솔 |
-| :four: | <a href="https://www.notion.so/b64a9548df3449f080d07df7d6d69d45?pvs=4">Ch06.메모리와 캐시 메모리</a> | :heavy_check_mark:  | 선준용 |
+| :four: | <a href="https://scrawny-jet-ba1.notion.site/b64a9548df3449f080d07df7d6d69d45?pvs=4">Ch06.메모리와 캐시 메모리</a> | :heavy_check_mark:  | 선준용 |
 
 ## :calendar:11월 : Computer Structure+Operating System
 ### :book:교재: 혼자 공부하는 컴퓨터구조+운영체제
